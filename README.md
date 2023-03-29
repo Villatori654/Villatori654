@@ -1,7 +1,7 @@
 # Github presentation suggestion
 - 👋 Hi, I’m villatori
 - 👀 I like studying things which I don't understand
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently **NOT** learning Python
 - 💞️ I’m looking to collaborate with yo big momma
 - 📫 How to reach me: villatori#4508
 
